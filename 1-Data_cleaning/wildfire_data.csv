@@ -1,0 +1,83 @@
+Datetime,Fire Name,Fire Centre Name,Hectares Burned,Cause
+2019-05-20,Fontas River,Prince George,650.0,Natural
+2019-05-11,Lejac,Prince George,236.0,Human
+2019-05-11,Coffee Creek Subdivision,Prince George,9.0,human
+2019-05-13,Richter Creek,Kamloops,507.0,unknown
+2019-05-27,Black Angus Creek,Northwest,1935.0,Natural
+2019-07-04,Linklater Creek,Southeast,50.0,Human
+2019-07-06,Southwest Tagish Lake,Northwest,1197.0,Natural
+2019-07-24,Richter Mountain,Kamloops,403.0,Natural
+2019-08-04,Eagle Bluff,Kamloops,2532.0,Human
+2020-04-14,Magee Road,Coastal,203.0,Human
+2020-08-02,Dry Lake,Kamloops,25.0,Natural
+2020-08-17,Talbott Creek,Southeast,1302.0,Natural
+2020-08-18,Christie Mountain,Kamloops,2122.5,Unknown
+2020-08-18,Solomon Mountain,Southeast,24.0,Natural
+2020-08-18,Doctor Creek,Southeast,7645.0,Natural
+2021-06-28,Sparks Lake,Kamloops,95980.0,Human
+2021-06-30,Lytton Creek,Kamloops,83671.0,Undetermined
+2021-07-13,White Rock Lake,Kamloops,83342.0,Undetermined
+2021-07-08,5 km West of Flat Lake,Cariboo,73862.0,Natural
+2021-07-12,Tremont Creek,Kamloops,63548.0,Undetermined
+2021-06-29,McKay Creek,Kamloops,44964.0,Human
+2021-07-02,Cutoff Creek,Prince George,33418.0,Natural
+2021-07-11,Octopus Creek,Southeast,22049.0,Natural
+2021-07-07,Chief Louis Lake,Southeast,20750.0,Natural
+2021-07-13,July Mountain,Kamloops,19661.0,Natural
+2021-07-19,Nk'Mip Creek,Kamloops,19335.0,Human
+2021-07-09,Momich Lake,Kamloops,16534.0,Natural
+2021-07-02,Black Pine,Prince George,16314.0,Natural
+2021-07-20,Garrison Lake,Kamloops,14735.0,Undetermined
+2021-07-10,Michaud Creek,Southeast,14032.0,Natural
+2021-07-01,Mount Porter,Prince George,13659.0,Natural
+2021-07-02,Churn Creek Protected Area,Cariboo,12040.0,Natural
+2021-07-11,Thomas Creek,Kamloops,10597.0,Human
+2021-06-30,Klawli Lake,Prince George,8412.0,Natural
+2021-07-05,Purdy Lake,Cariboo,8100.0,Natural
+2021-08-14,Brook Creek (merged with July Mountain),Kamloops,8000.0,Human
+2021-07-04,Forres Mountain,Prince George,7770.0,Natural
+2021-07-02,Cultus Creek,Southeast,7589.0,Natural
+2021-06-30,Young Lake,Cariboo,7453.0,Natural
+2021-07-02,Big Stick Lake,Cariboo,7195.0,Human
+2021-06-28,Buckinghorse,Prince George,6399.0,Natural
+2021-07-09,Trozzo Creek,Southeast,6023.0,Natural
+2021-07-09,Mowhokam Creek,Coastal,5098.0,Natural
+2021-06-16,George Road,Kamloops,5017.0,Human
+2021-07-10,Grizzly Lake,Prince George,4891.0,Natural
+2021-07-07,Bunting Road,Kamloops,4733.0,Undetermined
+2021-07-10,Crazy Creek Gorge FSR,Kamloops,4359.0,Undetermined
+2021-07-09,Akokli Creek,Southeast,3795.0,Natural
+2021-06-29,Minnaker Creek,Prince George,3470.0,Natural
+2021-06-30,Tent Fire Creek,Prince George,3380.0,Natural
+2021-06-28,Beatton River (Tommy Lakes),Prince George,3359.0,Natural
+2021-07-09,Hunakwa Lake,Kamloops,3355.0,Undetermined
+2021-06-30,South of Canim Lake,Cariboo,3049.0,Natural
+2021-07-01,Succour Lake,Cariboo,3006.0,Natural
+2021-07-08,Bill Nye Mountain,Southeast,2990.0,Natural
+2021-08-13,Pine River,Prince George,2542.0,Human
+2021-07-20,Two Mile Road,Kamloops,2499.0,Human
+2021-06-30,McKinley Lake,Cariboo,1834.0,Human
+2021-07-03,Hotnarko Creek,Cariboo,1533.0,Natural
+2021-06-30,Chilako,Prince George,1451.0,Natural
+2021-07-08,Embleton Mountain,Kamloops,991.0,Natural
+2021-08-15,Mount Law,Kamloops,976.0,Human
+2021-07-14,Brenda Creek,Kamloops,871.0,Undetermined
+2021-06-30,Southwest of Deka Lake,Cariboo,652.0,Natural
+2021-07-11,Three Valley Lake,Kamloops,498.0,Natural
+2021-07-13,Chasm,Cariboo,454.0,Natural
+2021-07-10,Camsell Lake,Prince George,311.0,Natural
+2021-07-02,Durand Lake,Kamloops,290.0,Natural
+2021-08-15,Plumbob Mountain,Southeast,286.0,Undetermined
+2021-08-28,Skaha Creek,Kamloops,277.0,Human
+2021-07-07,Bulkley Lake,Southeast,182.0,Natural
+2021-09-03,Hedges Butte,Kamloops,166.0,Human
+2021-07-23,Mineral Creek,Southeast,103.0,Human
+2021-04-18,Petit Creek,Kamloops,100.0,Human
+2021-08-01,Helmut/Kotcho Lake,Prince George,79.0,Natural
+2021-08-19,Mount Hayes,Coastal,62.0,Undetermined
+2021-07-07,Napier Lake,Kamloops,56.0,Natural
+2021-07-02,Kennedy Siding,Prince George,37.0,Undetermined
+2021-07-10,Beavervale Creek,Southeast,35.0,Natural
+2021-07-10,Becker Lake,Kamloops,35.0,Undetermined
+2021-07-02,Northeast of Si Lake,Cariboo,33.0,Natural
+2021-07-01,Merry Creek,Southeast,20.0,Human
